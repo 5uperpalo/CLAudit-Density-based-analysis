@@ -2,11 +2,10 @@
 
 Scripts were created during the stay at NII to show universality of an approach, previously applied to Darknet and MAWI datasets :
 
-“Data scientist (fixed-term 6 months) at NII Tokyo, Japan”  
+ * “Data scientist (fixed-term 6 months) at NII Tokyo, Japan”  
 08/03/2019 – 03/09/2019  
-Application of the unsupervised machine learning approaches to network traces (MAWI, Darknet). Generalization and improvement of the hierarchical density-based clustering approach to network measurements interpretation proposed during AIT Vienna internship.
-
-http://pavol-mulinka.eu/ 
+Application of the unsupervised machine learning approaches to network traces (MAWI, Darknet). Generalization and improvement of the hierarchical density-based clustering approach to network measurements interpretation proposed during AIT Vienna internship.  
+ * http://pavol-mulinka.eu/ 
  * included in dissertation thesis
 
 Scripts are density based clustering extension of the ideas proposed in:
