@@ -7,6 +7,7 @@ Scripts were created during the stay at NII to show universality of an approach,
 Application of the unsupervised machine learning approaches to network traces (MAWI, Darknet). Generalization and improvement of the hierarchical density-based clustering approach to network measurements interpretation proposed during AIT Vienna internship.  
  * http://pavol-mulinka.eu/ 
  * included in dissertation thesis
+ * [submitted] Pavol Mulinka, Kensuke Fukuda, Pedro Casas, and Lukas Kencl "HUMAN - Hierarchical Clustering for Machine Learning based Anomaly Detection & Analysis", IFIP Networking, 2020
 
 Scripts are density based clustering extension of the ideas proposed in:
 
